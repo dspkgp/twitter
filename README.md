@@ -1,4 +1,4 @@
-# twitter
+# twitter live sentiments
 Live sentiment analysis
 
 Trained classifier on 10,000 movie reviews with positive and negative tags and prepared a sentiment module.
